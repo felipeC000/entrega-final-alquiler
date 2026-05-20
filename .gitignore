@@ -1,0 +1,73 @@
+# ── Configuración local (NO subir al repositorio) ──────────────
+# Si personalizas db.php con tu contraseña real, agrégalo aquí:
+# includes/db.php
+
+# ── Sistema operativo ───────────────────────────────────────────
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+
+# ── IDEs y editores ─────────────────────────────────────────────
+# VS Code
+.vscode/
+*.code-workspace
+
+# PhpStorm / JetBrains
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# ── PHP ─────────────────────────────────────────────────────────
+# Logs de errores PHP
+php_errors.log
+error_log
+
+# Caché de Composer (si se usa en el futuro)
+vendor/
+composer.lock
+
+# ── XAMPP / Servidor ────────────────────────────────────────────
+# Logs de Apache
+*.log
+logs/
+
+# ── Archivos temporales ─────────────────────────────────────────
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# ── Archivos de entorno (seguridad) ─────────────────────────────
+.env
+.env.local
+.env.production
+config.local.php
+
+# ── Subidas de usuarios (si se implementan en el futuro) ────────
+uploads/
+public/uploads/
