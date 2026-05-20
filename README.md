@@ -1,4 +1,4 @@
-# 🚗 AutoRent — Sistema de Alquiler de Vehículos
+<img width="1310" height="612" alt="image" src="https://github.com/user-attachments/assets/0ded3d00-1db4-4e19-aec6-cdb434cbf18f" /># 🚗 AutoRent — Sistema de Alquiler de Vehículos
 
 ![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-MariaDB_10.4-4479A1?logo=mysql&logoColor=white)
@@ -166,16 +166,20 @@ http://localhost/autorent/
 ## 📸 Capturas de pantalla
 
 ### Pantalla de Login
-> Dark theme con tabs de Iniciar sesión / Registrarse
+<img width="1310" height="612" alt="image" src="https://github.com/user-attachments/assets/a4cd5118-df7e-4432-9b58-a97aa8c6a7c4" />
+
 
 ### Dashboard principal
-> Estadísticas del usuario, búsqueda rápida y vehículos destacados
+<img width="1324" height="613" alt="image" src="https://github.com/user-attachments/assets/7c92e7c6-3540-419e-b40c-7f977df555fe" />
+
 
 ### Catálogo de vehículos
-> Filtros por fecha, búsqueda por texto y ordenamiento por precio
+<img width="1323" height="604" alt="image" src="https://github.com/user-attachments/assets/f8ea9b07-12ba-49f0-afe2-c2dadebe2120" />
+
 
 ### Panel de administración
-> CRUD de vehículos, gestión de usuarios y reporte de reservas
+<img width="1323" height="610" alt="image" src="https://github.com/user-attachments/assets/e224f04d-11e5-4505-a2fe-6da6f797184f" />
+
 
 ---
 
@@ -215,7 +219,10 @@ Desarrollado como proyecto académico.
 
 | Nombre | Rol |
 |--------|-----|
-| [Tu nombre aquí] | Desarrollador principal |
+| [Juan Felipe Caceres] |
+| [Ossa Escobar Samuel] |
+| [Osorio Feo Manuel Santiago] |
+
 
 ---
 
